@@ -1,0 +1,25 @@
+#heading1{
+    display: flex;
+}
+#line2{
+    color: red; 
+    margin-top: 4%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.40in;
+    text-align: center;
+}
+#line3{
+    margin-top: -4%;
+    text-align: center;
+}
+#line4{
+    text-align:right
+}
+table{
+    border: 3cm;
+    height: 20px;
+    text-align: center;
+    width: fit-content;}
+    
+
+
